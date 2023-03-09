@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    
+}
+.home .container-fluid .row img{
+    width: 85%;
+    height: 500px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.home .container-lg .row .row .col .about-text .team-info img{
+    width: 60%;
+    height: 100px;
+}
+#carousel-img{
+    width: 100%;
+    height: 480px;
+    object-fit: cover;
+    object-position: center;
+}
+
+#floatingInput{
+    /* background-color: lightslategray; */
+    color: white;
+}
+
+#gammers{
+    /* width: 100%; */
+    height: 250px;
+    object-fit: cover;
+    object-position: center;
+}
+
+#GEARS{
+    width: 40%;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+}
